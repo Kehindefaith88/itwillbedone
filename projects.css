@@ -1,0 +1,69 @@
+.navbar-nav{
+    margin-left: auto;
+    margin-right: 100px;
+}
+.nav-item{
+    margin: 6px;
+    margin-left: 10px;
+}
+.navbar-brand{
+    margin: 6px;
+    margin-left: 50px;
+    margin-right: 6rem !important;
+}
+.navbar-brand:hover{
+    cursor: pointer;
+    color: #fff !important;
+    text-decoration: underline !important;
+}
+.navbar-brand:active{
+    color: aqua !important;
+    font-size: x-large;
+    text-decoration: underline !important;
+    cursor: progress;
+}
+.nav-link:hover{
+    cursor: pointer;
+    color: #fff !important;
+    text-decoration: underline !important;
+}
+.nav-link:active{
+    color: aqua !important;
+    font-size: large;
+    text-decoration: underline !important;
+    cursor: progress;
+}
+body{
+    background-color: rgb(216, 235, 233);
+}
+.head{
+    text-align: center !important;
+    font-style: inherit;
+    margin-top: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center !important;
+}
+.head h6{
+    font-weight: 450;
+    margin-bottom: -0.2rem;
+    font-size: small;
+}
+.col{
+    margin: 1rem;
+    margin-top: 4rem;
+    }
+.row{
+    margin-top: 5rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+}
+.fimg{
+    height: 300px;
+    width: 300px;
+    
+}
+.simg{
+    height: 300px;
+    width: 300px;
+}
